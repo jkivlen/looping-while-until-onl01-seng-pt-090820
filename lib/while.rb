@@ -5,7 +5,7 @@ def using_while
   levitation force += 1
     puts "Wingardium Leviosa"
   end
-puts "Wingardium Leviosa"
+
 
 end
 
